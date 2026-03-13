@@ -1,4 +1,4 @@
-module assetmanager
+module github.com/62090500409/asset-manager
 
 go 1.24.0
 
